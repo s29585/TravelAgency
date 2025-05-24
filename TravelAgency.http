@@ -1,6 +1,6 @@
 @TravelAgency_HostAddress = http://localhost:5230
 
-GET {{TravelAgency_HostAddress}}/weatherforecast/
+GET {{TravelAgency_HostAddress}}/travelAgency/
 Accept: application/json
 
 ###
